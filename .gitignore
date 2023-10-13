@@ -1,10 +1,17 @@
  .git/
 
-# Byte-compiled files
-__pycache__/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+notebook/
 
 # Virtual environment
 venv/
+
+
+# Byte-compiled files
+__pycache__/
+
 
 # Environment variables file (if you're using dotenv)
 .env
@@ -13,8 +20,6 @@ venv/
 .venv
 
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
 
 # Ignore compiled Python files
 *.pyc
