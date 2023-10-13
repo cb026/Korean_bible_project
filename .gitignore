@@ -1,0 +1,27 @@
+ .git/
+
+# Byte-compiled files
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Environment variables file (if you're using dotenv)
+.env
+
+# Pipenv environment variables file
+.venv
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore dependency management files
+pipenv.lock
